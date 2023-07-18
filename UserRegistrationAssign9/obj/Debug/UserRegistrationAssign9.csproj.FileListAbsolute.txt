@@ -1,0 +1,8 @@
+M:\Simplilearn\mphasis\day7\UserRegistrationAssign9\UserRegistrationAssign9\bin\Debug\UserRegistrationAssign9.exe.config
+M:\Simplilearn\mphasis\day7\UserRegistrationAssign9\UserRegistrationAssign9\bin\Debug\UserRegistrationAssign9.exe
+M:\Simplilearn\mphasis\day7\UserRegistrationAssign9\UserRegistrationAssign9\bin\Debug\UserRegistrationAssign9.pdb
+M:\Simplilearn\mphasis\day7\UserRegistrationAssign9\UserRegistrationAssign9\obj\Debug\UserRegistrationAssign9.csproj.AssemblyReference.cache
+M:\Simplilearn\mphasis\day7\UserRegistrationAssign9\UserRegistrationAssign9\obj\Debug\UserRegistrationAssign9.csproj.SuggestedBindingRedirects.cache
+M:\Simplilearn\mphasis\day7\UserRegistrationAssign9\UserRegistrationAssign9\obj\Debug\UserRegistrationAssign9.csproj.CoreCompileInputs.cache
+M:\Simplilearn\mphasis\day7\UserRegistrationAssign9\UserRegistrationAssign9\obj\Debug\UserRegistrationAssign9.exe
+M:\Simplilearn\mphasis\day7\UserRegistrationAssign9\UserRegistrationAssign9\obj\Debug\UserRegistrationAssign9.pdb
